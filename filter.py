@@ -12,3 +12,5 @@ lista = [
 idades = filter(lambda pessoa: pessoa['idade'] < 18, lista)
 
 print(list(idades))
+
+
